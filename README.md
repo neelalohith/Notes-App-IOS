@@ -4,7 +4,7 @@ This is the repository for Notes App that is built using Swift UI, Foundation an
 
 # Screenshots
 ![1](https://github.com/neelalohith/Notes-App-IOS/assets/98219059/f33e07ac-d16a-4beb-8c57-a04c9b3a81f1) 
-![M2](https://github.com/neelalohith/Notes-App-IOS/assets/98219059/6dadb17b-82a0-4618-b192-af6e6b121caf)
+![M2-2](https://github.com/neelalohith/Notes-App-IOS/assets/98219059/e96a6de7-3e78-4bc3-8198-93df035ccf7e)
 ![M3](https://github.com/neelalohith/Notes-App-IOS/assets/98219059/727be7f0-6370-44e3-8939-b6666f59238e)
 ![M4](https://github.com/neelalohith/Notes-App-IOS/assets/98219059/9a28cf66-3999-40c4-91c6-5476fd4398bb)
 ![M5](https://github.com/neelalohith/Notes-App-IOS/assets/98219059/65081909-3dbf-4c8e-9ea7-fc35ab2515dd)
