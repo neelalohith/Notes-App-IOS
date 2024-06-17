@@ -4,12 +4,12 @@ This is the repository for Notes App that is built using Swift UI, Foundation an
 
 # Screenshots
 ![1](https://github.com/neelalohith/Notes-App-IOS/assets/98219059/f33e07ac-d16a-4beb-8c57-a04c9b3a81f1) 
-![2](https://github.com/neelalohith/Notes-App-IOS/assets/98219059/51eaecf5-b8f1-46be-b0ef-01c16c9827ca)
-![3](https://github.com/neelalohith/Notes-App-IOS/assets/98219059/5f89c6ca-34d5-4738-b44c-111f893851d2)
-![4](https://github.com/neelalohith/Notes-App-IOS/assets/98219059/9af7b003-ca5d-4513-9311-296d6cfe37ca)
-![5](https://github.com/neelalohith/Notes-App-IOS/assets/98219059/6c6b662d-7edd-4ebf-900d-f58a100e8c6a)
-![7](https://github.com/neelalohith/Notes-App-IOS/assets/98219059/e10d4092-f08f-482b-a860-7b41a8ddd9f8)
-![6](https://github.com/neelalohith/Notes-App-IOS/assets/98219059/7cd48830-dad5-4df9-a8ef-1bd6425f4373)
+![M2](https://github.com/neelalohith/Notes-App-IOS/assets/98219059/6dadb17b-82a0-4618-b192-af6e6b121caf)
+![M3](https://github.com/neelalohith/Notes-App-IOS/assets/98219059/727be7f0-6370-44e3-8939-b6666f59238e)
+![M4](https://github.com/neelalohith/Notes-App-IOS/assets/98219059/9a28cf66-3999-40c4-91c6-5476fd4398bb)
+![M5](https://github.com/neelalohith/Notes-App-IOS/assets/98219059/65081909-3dbf-4c8e-9ea7-fc35ab2515dd)
+![M6](https://github.com/neelalohith/Notes-App-IOS/assets/98219059/4d4f2b7a-7d85-4669-851e-21646b237511)
+![M7](https://github.com/neelalohith/Notes-App-IOS/assets/98219059/9b6e8ef0-93c8-4ebe-802a-400555db91f8)
 
 
 # Correct Method to run
